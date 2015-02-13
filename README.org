@@ -1,0 +1,38 @@
+# STORY-TEMPLATE-VERSION: 4.3.0
+
+* Update landing page
+
+  - Users _expects_ a presentation of NNotes _so that_ they can understand under
+    1 minute of attention what they can earn from investing (time, money) in
+    NNotes.
+
+
+
+*** Definitions
+
+    - <<dropbox>>: [[https://www.dropbox.com/][Dropbox]]
+
+
+
+** Init State
+
+   - NNotes does not have a landing page that meet users expectations.
+
+
+
+** Problem
+
+   - Users won't invest anything in NNotes if they don't understand what they
+     will earn from that investment.
+
+
+
+** End State
+
+   - NNotes has a landing page similar to the one of [[dropbox][Dropbox]].
+
+
+
+*** Rationale
+
+    - We beleive that simplicity wins anyway...
