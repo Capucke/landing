@@ -8,6 +8,25 @@
 
 
 
+** Context
+
+   - Version: 0.0.0
+
+   - Contribution policy: [[http://rfc.zeromq.org/spec:22][C4.1]]
+
+   - Project style guide: [[https://github.com/nomosyn/resources][Coding style]]
+
+   - short name: landing
+
+   - abbreviation: landing
+
+   - Licensed under: [[https://www.mozilla.org/MPL/2.0/][MPLv2]]
+
+   - Contributors:
+       - Full name: Pierre-Henry Fröhring, contact: frohring.pierrehenry@gmail.com
+
+
+
 *** Definitions
 
     - <<dropbox>>: [[https://www.dropbox.com/][Dropbox]]
@@ -35,4 +54,4 @@
 
 *** Rationale
 
-    - We beleive that simplicity wins anyway...
+    - We believe that simplicity wins anyway...
